@@ -1,0 +1,3 @@
+rootProject.name = 'ngallery'
+
+include ':app'
